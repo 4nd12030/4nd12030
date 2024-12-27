@@ -1,6 +1,5 @@
 ## Hola soy Andrea Aguirre 👋
 
-💫 About Me:
 Soy Ingeniera en Informática con formación técnica y una gran pasión por el desarrollo de software. A lo largo de mi carrera, he adquirido experiencia en algunas áreas de la informática, y en este momento estoy enfocada en el desarrollo de aplicaciones Android nativas. A pesar de ser relativamente nueva en esta área, me siento profundamente motivada por seguir aprendiendo y mejorar mis habilidades a través de proyectos reales.<br><br>Mi objetivo es crear aplicaciones móviles funcionales, intuitivas y de alto rendimiento, que brinden una excelente experiencia a los usuarios. Siempre estoy en busca de nuevos retos que me permitan crecer profesionalmente y contribuir al desarrollo de soluciones innovadoras. Me encanta trabajar en equipo, compartir conocimientos y aprender de otros desarrolladores.<br><br>Con 29 años y originaria de México, estoy emocionada por las oportunidades que me permitan seguir evolucionando como profesional y explorar las últimas tendencias tecnológicas en el mundo del desarrollo móvil.<br><br>¡Estoy lista para seguir aprendiendo y colaborar en proyectos apasionantes!<br><br>
 
 
