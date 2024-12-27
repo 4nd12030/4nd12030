@@ -20,8 +20,3 @@ Soy Ingeniera en Informática con formación técnica y una gran pasión por el 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4nd12030&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=4nd12030&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->4nd12030/4nd12030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
